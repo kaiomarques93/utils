@@ -19,5 +19,3 @@ else
     sudo apt autoremove -y
 fi
 
-# Clear the terminal
-clear
